@@ -28,7 +28,7 @@ The file should be ready after loading a while. If you see a blue squiggle under
 
 Note: To get this repository, you will need to download Lean's mathematical library, which takes about 5 GB of storage space.
 
-It might be tricky to get Lean running on a laptop that is more than 10 years old or on a chromebook, since Lean does use a moderate amount of recourses.
+It might be tricky to get Lean running on a laptop that is more than 10 years old or on a chromebook, since Lean does use a moderate amount of resources.
 You can still run Lean in your browser by using Codespaces or Gitpod, see the the instructions at the bottom of this file.
 
 * On Windows, antivirus programs can cause slowdowns or errors when downloading a Lean project. Consider temporarily disabling your antivirus program in the step *Complete the extension setup*
